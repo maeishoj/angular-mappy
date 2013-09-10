@@ -22,7 +22,7 @@ Attributes
 #### map-data ####
 This is the path data used to draw the map. I've included a miller projection world map in a separate file.
 
-#### data #### 
+#### data ####
 
 The data used to color the map. It can be defined in multiple formats:
 
