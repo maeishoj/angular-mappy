@@ -27,17 +27,20 @@ This is the path data used to draw the map. I've included a miller projection wo
 The data used to color the map. It can be defined in multiple formats:
 
 1. Primitive
+
         data = {
           'GB' : 5,
           'US' : 3,
         }
 2. Objects (html requires the 'key' attribute)
+
         data = {
           'GB' : {metric: 5},
           'US' : {metric: 3},
         }
 
 3. Sub-categories (html requires the 'sub-category' attribute)
+
         data = {
           2005: {
             'GB': 5,
