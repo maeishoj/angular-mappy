@@ -5,6 +5,10 @@ Vector-based world map with hover tooltips in AngularJS
 
 Requires jQuery >1.9.1
 
+Screenshot
+==========
+
+![screenshot](http://i.imgur.com/jASro70.png)
 
 Example HTML
 ============
